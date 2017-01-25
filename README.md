@@ -17,4 +17,12 @@ Learn everything you need to about the subject of this `Tutorial` project.
 
 ## Topics
 ```
+:
+Elixir School Testing
+12. Testing
+[x] ExUnit
+[x] capture_io and capture_log
+[x] Test Setup
+[x] Mocking
+:
 ```
